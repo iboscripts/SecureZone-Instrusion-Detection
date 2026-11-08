@@ -40,4 +40,4 @@ While this prototype uses deterministic computer vision techniques, future itera
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/iboscripts/SecureZone-Instrusion-Detection.git](https://github.com/iboscripts/SecureZone-Instrusion-Detection.gitt)
+   git clone [https://github.com/iboscripts/SecureZone-Instrusion-Detection.git](https://github.com/iboscripts/SecureZone-Instrusion-Detection.git)
